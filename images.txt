@@ -1,2 +1,2 @@
 python:alpine3.19
-java:8
+openjdk:8u102-jdk
